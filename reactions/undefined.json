@@ -1,7 +1,9 @@
 {
-  "like": 0,
+  "like": 1,
   "insightful": 0,
   "useful": 0,
   "hot": 0,
-  "userReactions": {}
+  "userReactions": {
+    "MTMzLjEwNi4xNTQu_1760382586387": "like"
+  }
 }
