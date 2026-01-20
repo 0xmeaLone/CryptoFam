@@ -4,7 +4,7 @@ author: "0xmeaLone"
 email: "0xmealone@gmail.com"
 walletAddress: ""
 date: "2026-01-16T14:37:23.276Z"
-tags: []
+tags: [dao]
 published: true
 ---
 
