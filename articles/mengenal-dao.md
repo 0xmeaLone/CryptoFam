@@ -2,7 +2,7 @@
 title: "Mengenal DAO"
 author: "0xmeaLone"
 email: "0xmealone@gmail.com"
-walletAddress: ""
+walletAddress: "Labu6tAuwzpTvoq6hq6p5r7AxMBgtbvpxW4mMHwXieo"
 date: "2026-01-16T14:37:23.276Z"
 tags: [dao]
 published: true
